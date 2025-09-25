@@ -1,5 +1,5 @@
 # Guessing Number Game
-### A Guessing Number Game is a simple interactive game where the computer randomly selects a number within a specified range (e.g., 1 to 100), and the player tries to guess it. After each guess, the computer provides feedback such as "Too high," "Too low," or "Correct!" The game continues until the player guesses the correct number. It’s a fun way to practice logic and problem-solving skills.
+### A Guessing Number Game is a simple interactive game where the computer randomly selects a number within a specified range (e.g., 1 to 100) within a time limit of 60 seconds, and the player tries to guess it. After each guess, the computer provides feedback such as "Too high," "Too low," or "Correct!" The game continues until the player guessses right word or else it closes auyomatically after displaying the result. It’s a fun way to practice logic and problem-solving skills.
 ## Technologies Used
 ### Programming Language: JAVA
 ### GAMEPLAY FLOW
